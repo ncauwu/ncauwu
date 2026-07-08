@@ -8,7 +8,7 @@ Yep, you read that right—engineering! But honestly? I have a massive soft spot
 
 When I’m not sketching layouts, you’ll probably find me exploring computer networks, IoT, and basically anything that sparks my curiosity.
 
-This page is my little learning corner, so please be kind and stay humble with me! 🚀
+This page is my little learning corner, so please be kind with me! 🐱
 
 ---
 `Certified cat person`
