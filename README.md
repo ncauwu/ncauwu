@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+hi, it's me Ncauwu! <img width="40" height="40" alt="gif kucing lucu" src="https://github.com/user-attachments/assets/a7356f5d-1aa4-4205-9bc8-4ae31049431c" />
+
+
 <!--
 **ncauwu/ncauwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
