@@ -8,7 +8,7 @@ Yep, you read that right—engineering! But honestly? I have a massive soft spot
 
 When I’m not sketching layouts, you’ll probably find me exploring computer networks, IoT, and basically anything that sparks my curiosity.
 
-|This page is a living diary of my tech and design journey, so please be kind and stay humble with me! 🚀
+This page is a living diary of my tech and design journey, so please be kind and stay humble with me! 🚀
 
 `Certified cat person`
 <img width="40" height="40" alt="kucing gif" src="https://github.com/user-attachments/assets/2d7d8777-c5af-4555-ab45-df578195cd41" /> 
